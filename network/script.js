@@ -8,13 +8,13 @@ tsParticles.load({
       }
     },
     color: {
-      value: ["#22222", "#444444", "#777777", "#888888"]
+      value: ["#7ea1d9", "#7ebdd9", "#a8d97e", "#d97e7e"]
     },
     shape: {
       type: "circle"
     },
     opacity: {
-      value: 1
+      value: .5
     },
     size: {
       value: { min: 1, max: 8 }
