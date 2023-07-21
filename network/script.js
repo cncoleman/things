@@ -1,7 +1,5 @@
 tsParticles.load({
-  background-color: {
-    value: "#d97e7e"
-  }
+
   particles: {
     number: {
       value: 80,
